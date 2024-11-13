@@ -2,10 +2,10 @@
 <p>I'm amateur web developer.<br/>I study HTML,CSS and JavaScript.</p> 
 <h2>統計情報</h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=chitose1020&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=chito-jp&theme=onedark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chitose1020&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chitose1020&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chitose1020&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitose1020&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chitose1020&theme=github_dark&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chito-jp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chito-jp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chito-jp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chito-jp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chito-jp&theme=github_dark&utcOffset=9)
