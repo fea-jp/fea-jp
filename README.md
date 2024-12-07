@@ -1,6 +1,8 @@
 <h1><img src="img/icon.png" height="30px" width="30px" />chitose1020</h1>
-<p>I'm amateur web developer.<br/>I study HTML,CSS and JavaScript.</p> 
-<h2>統計情報</h2>
+<h2>About Me</h2>
+<p>Hello world! ちとせあめです。<br>僕はプログラミングを学んでいる学生で、HTML,CSS,JavaScriptはある程度書けますが、Python,Cはまだまだ初心者です。</p> 
+<h2>My account</h2>
+<h2>My Stats</h2>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chito-jp&theme=onedark)
 
