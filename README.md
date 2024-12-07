@@ -1,6 +1,6 @@
 <h1><img src="img/icon.png" height="30px" width="30px" />chitose1020</h1>
 <h2>About Me</h2>
-<p>Hello world! ちとせあめです。<br>僕はプログラミングを学んでいる学生で、HTML,CSS,JavaScriptはある程度書けますが、Python,Cはまだまだ初心者です。</p> 
+<p>Hello world! ちとせあめです。<br>僕はプログラミングを学んでいる学生で、HTML,CSS,JavaScriptはある程度書けますが、Pythonはまだまだ初心者です。</p> 
 <h2>My account</h2>
 <h2>My Stats</h2>
 
