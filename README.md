@@ -1,6 +1,5 @@
-<h1><img src="https://photos.app.goo.gl/DWEV23EvofXpWJFSA" height="30px" width="30px" />ふぇあ</h1>
 <h2>About Me</h2>
-<p>Hello, world! ふぇあです。プログラミングを学んでいる学生で、Scratchをきっかけにプログラミングを始めました。そこからテキストベースの言語に移っていき、今も学習を進めています。</p> 
+<p>Hello, world! プログラミングを学んでいる学生で、Scratchをきっかけにプログラミングを始めました。そこからテキストベースの言語に移っていき、今も学習を進めています。　</p> 
 <h2>My Skills</h2>
 
 ![My Skills](https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,nodejs,py,md)
